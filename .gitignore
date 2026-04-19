@@ -1,0 +1,12 @@
+# Never commit secrets
+appsettings.Development.json
+appsettings.Production.json
+
+# User secrets
+secrets.json
+/.vs/Rentals.API/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs/Rentals.API/CopilotIndices/17.14.1641.39856
+/.vs/Rentals.API/v17
+/bin/Debug/net8.0
+/obj
